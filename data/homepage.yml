@@ -9,7 +9,7 @@ bag for all of Vietnamese people with
 aims to raise community awareness and
 change daily habits about the
 environmental protection."
-  image : "img/StayGreen/851d3048513bac65f52a4.jpg"
+  image : "img/logo/3.png"
   # button
   button:
     enable : true
@@ -17,8 +17,8 @@ environmental protection."
     link : "products"
   # demo video
   video:
-    enable : false
-    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+    enable : true
+    videoURL : "https://www.youtube.com/embed/-Yqp_Xf8q5Y"
 
 ########################## About ##############################
 about:
@@ -34,9 +34,8 @@ about:
 cta:
   enable : true
   title : "Design your own printed and shape, I'll help you make it"
-  content : "Design a custom logo and shape to show your favorite, your spirit
-  to match your behaviors and fashion, add the perfect
-   pop of color to your accessories."
+  content : "Design a custom logo and shape to show your favorite, your spirit to match your behaviors and fashion,
+  add the perfect pop of color to your accessories. We ensure manufacture a bag with the best quality for you."
   image : "img/design.png"
   overlayImage : "images/cta-overlay.png"
   button:
@@ -47,34 +46,37 @@ cta:
 material:
   enable : true
   title : "Material Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  subtitle : "A bag can be combine by many materials, which improves by advance technologies."
   materialItem:
     # material item loop
     - title : "Heavy Canvas"
       image : "img/canvas.jpg"
-      content : "heavy canvas, possibly dyed, or treated to resist moisture and mold"
+      content : "Canvas is an extremely durable plain-woven fabric used for making sails, tents, marquees, backpacks, shelters,
+      and other items for which sturdiness is required, as well as in such fashion objects as handbags, electronic device cases, and shoes"
 
     # material item loop
     - title : "Jute"
       image : "img/jute.jpg"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Jute is a long, soft, shiny Bast fiber that can be spun into coarse, strong threads.
+      It is produced primarily from plants in the genus Corchorus, which was once classified with the family Tiliaceae."
 
     # material item loop
     - title : "Heavy nylon"
       image : "img/nylon.jpg"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Nylon is a thermoplastic silky material that can be melt-processed into fibers, films, or shapes.
+       It is made of repeating units linked by amide linkssimilar to the peptide bonds in proteins"
 
     # material item loop
     - title : "Leather"
       image : "img/leather.jpg"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Leather is a durable and flexible material created by tanning animal rawhide and skins. The most common raw material is cattle hide.
+      It can be produced at manufacturing scales ranging from artisan to modern industrial scale."
 
 ########################### Advantage #########################
 advantage:
   enable : true
   title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  subtitle : "There are serveral benefits from our bags"
   image : "img/1.jpg"
   advantageList:
     # advantage list loop
@@ -88,13 +90,11 @@ advantage:
 
 ######################## Promo Video ##########################
 video:
-  enable : false
+  enable : true
   title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
-  videoThumb : "images/video-thumb.jpg"
-  videoURL : "http://www.youtube.com/watch?v=QN-L6jSkKfY"
-
+  content : "The video will guide you how to fold the bag to small and flexible. You can store it into everything you want, even your pocket."
+  videoThumb : "img/guide.jpg"
+  videoURL : "https://www.youtube.com/embed/QN-L6jSkKfY"
 
 ######################## Products #############################
 products:
