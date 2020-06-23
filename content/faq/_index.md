@@ -7,4 +7,7 @@ description : "this is a meta description"
 
 ### Frequently Asked Questions
 
-Below FAQ are some common concerns of our clients before purchasing the <br> theme, if you have other questions, please just send it to tuitotehcm@email.com
+Below FAQ are some common concerns of our clients before purchasing the theme, if you have other questions, please just send it to email: tuitotehcmut@gmail.com or call me at: 0939333079.
+
+
+We are pleasure to receive your comment, because I'll listen and improve for you my mistake.

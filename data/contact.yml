@@ -4,21 +4,15 @@ contact:
   # office
   office:
     title : "Central Office"
-    content : "Ho Chi Minh City of Technology University. 268 Ly Thuong Kiet St, Ward 14, District 10, Ho Chi Minh City, Vietnam."
+    content : "Ho Chi Minh City University of Technology. 268 Ly Thuong Kiet St, Ward 14, District 10"
     # other information comes from "config.toml"
 
   # opennig hour
   opennigHour:
     title : "Opening Hours"
     dayTimeList:
-      - dayTime : "Monday: 9:00 – 18:00"
-      - dayTime : "Tuesday: 9:00 – 18:00"
-      - dayTime : "Wednesday: 9:00 – 18:00"
-      - dayTime : "Thursday: 9:00 – 18:00"
-      - dayTime : "Friday: 9:00 – 18:00"
-      - dayTime : "Saturday: 9:00 – 14:30"
-      - dayTime : "sunday: 9:00 – 14:30"
-
+      - dayTime : "Mon-Fri: 9:00 – 18:00"
+      - dayTime : "Sat-Sun: 9:00 – 14:30"
 ####################### google map ########################
 map:
   enable: false

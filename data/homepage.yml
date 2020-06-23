@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Túi Tò Té, your eco-friendly bag"
+  title : "Túi Tò Te"
   content : "A bag is made by eco-friendly materials
 known as Canvas and we call it “Túi tò
 te” – “ToTe Bag” in English. We offer this
@@ -9,7 +9,7 @@ bag for all of Vietnamese people with
 aims to raise community awareness and
 change daily habits about the
 environmental protection."
-  image : "img/logo/3.png"
+  image : "img/banner/banner.png"
   # button
   button:
     enable : true
@@ -36,8 +36,8 @@ cta:
   title : "Design your own printing and shapes, I'll help you make it"
   content : "Design a custom logo and shape to show your favorite, your spirit to match your behaviors and fashion,
   add the perfect pop of color to your accessories. We ensure manufacture a bag with the best quality for you."
-  image : "img/design.png"
-  overlayImage : "images/cta-overlay.png"
+  image : "img/banner/design1.png"
+  overlayImage : "img/banner/ctaover.png"
   button:
     label : "All Products"
     link : "products"

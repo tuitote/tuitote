@@ -4,14 +4,18 @@ date: 2020-06-06T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "Tote Bag"
 
 # product Price
-price: "99.000VND"
+price: "25.000~70.000VND"
+
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "Depend on size you choose, the price will be increase 25.000VND for each size. We have
+three available types described in more detail below."
+
+
 
 #product ID
 productID: "3"
@@ -26,9 +30,10 @@ images:
   - image: "img/Basic/3a5de5228451790f20406.jpg"
   - image: "img/Basic/2566f11f906c6d32347d9.jpg"
 ---
+| Size  |      Price      |
+|----------|:-------------:|
+| 27*32 cm |  25.000 VND    |
+| 30*37 cm |    50.000 VND  |
+| 35*37 cm | 70.000 VND   |
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-
-takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Let's choose exactly size and number of tote bags you want. And contact me at any platform you want.
